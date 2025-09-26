@@ -1,7 +1,7 @@
 # Frontend Knowledge
 1. What do you know about the React.js library? Summarize in 1-2 paragraphs using your own words.
 2. If there are any existing design errors in a website's frontend, what would be the best action to improve it?
-   Say, for example, these two photos that have different dimensions being placed side-by-side. Please create a solution using the React.js library (any framework is welcome) and TailwindCSS to fix this issue.
+   Say, for example, these [two photos](https://github.com/Daaaaaav/pusb2025-webdevgift/blob/main/example-images.zip) that have different dimensions being placed side-by-side. Please create an aesthetically-pleasing frontend design solution using the React.js library (any framework is welcome) and TailwindCSS to fix this issue.
 3. Create an admin panel with an integrated Login Page and 3 different pages using React.js library (any framework is welcome, plus points if using TailwindCSS for the design).
 4. Are you confident in updating the frontend code frequently (at least monthly) whilst keeping up with the latest PUSB news? 
 
